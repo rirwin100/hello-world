@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Just another repository
+Hi, I like to code web sites and apps using HTML, CSS, and jQuery.
